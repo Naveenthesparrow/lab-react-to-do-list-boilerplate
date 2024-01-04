@@ -11,12 +11,12 @@ button {
   margin: 5px;
   padding: 3px;
   background-color: white;
-  color: blue;
+  color: rgb(148, 183, 7);
   cursor: pointer;
 }
 
 button:hover {
-  background-color: blue;
+  background-color: rgb(34, 255, 0);
   color: white;
 }
 
